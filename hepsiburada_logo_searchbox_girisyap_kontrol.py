@@ -53,4 +53,6 @@ class Odev(object):
 
 
 o1=Odev()
-o1.__init__()
+o1.logo()
+o1.search_box_control()
+o1.login_menu()
